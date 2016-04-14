@@ -64,3 +64,4 @@ Die Liste stellt eine flexibele Möglichkeit dar, um Elemente unterschiedlichen 
 ['string',24,5]
 ```
 Die Listenindizierung, ist wie bei Strings nullbasiert, daher kann auf die einzelnen Elemente wieder mittels dem  "[]"-Operator zugegriffen werden.
+.... to be continued
